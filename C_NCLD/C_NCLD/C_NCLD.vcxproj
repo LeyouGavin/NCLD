@@ -19,10 +19,40 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="include\demo_1.h" />
+    <ClInclude Include="include\demo_10_1.h" />
+    <ClInclude Include="include\demo_10_2.h" />
+    <ClInclude Include="include\demo_11.h" />
+    <ClInclude Include="include\demo_12.h" />
+    <ClInclude Include="include\demo_13.h" />
+    <ClInclude Include="include\demo_14.h" />
+    <ClInclude Include="include\demo_2.h" />
+    <ClInclude Include="include\demo_3.h" />
+    <ClInclude Include="include\demo_4.h" />
+    <ClInclude Include="include\demo_5.h" />
+    <ClInclude Include="include\demo_6.h" />
+    <ClInclude Include="include\demo_7.h" />
+    <ClInclude Include="include\demo_8.h" />
+    <ClInclude Include="include\demo_9.h" />
     <ClInclude Include="include\demo_n.h" />
     <ClInclude Include="include\main.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="src\demo_1.c" />
+    <ClCompile Include="src\demo_10_1.c" />
+    <ClCompile Include="src\demo_10_2.c" />
+    <ClCompile Include="src\demo_11.c" />
+    <ClCompile Include="src\demo_12.c" />
+    <ClCompile Include="src\demo_13.c" />
+    <ClCompile Include="src\demo_14.c" />
+    <ClCompile Include="src\demo_2.c" />
+    <ClCompile Include="src\demo_3.c" />
+    <ClCompile Include="src\demo_4.c" />
+    <ClCompile Include="src\demo_5.c" />
+    <ClCompile Include="src\demo_6.c" />
+    <ClCompile Include="src\demo_7.c" />
+    <ClCompile Include="src\demo_8.c" />
+    <ClCompile Include="src\demo_9.c" />
     <ClCompile Include="src\demo_n.c" />
     <ClCompile Include="src\main.c" />
   </ItemGroup>

@@ -1,0 +1,11 @@
+/*
+!.git/
+!.gitignore
+!README.md
+!/C_NCLD/
+/C_NCLD/Resource/
+/C_NCLD/.vs/
+/C_NCLD/C_NCLD.VC.db
+/C_NCLD/C_NCLD/C_NCLD.vcxproj.user
+/C_NCLD/C_NCLD/Debug/
+/C_NCLD/C_NCLD/Release/
