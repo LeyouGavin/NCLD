@@ -26,6 +26,7 @@
     <ClInclude Include="include\demo_12.h" />
     <ClInclude Include="include\demo_13.h" />
     <ClInclude Include="include\demo_14.h" />
+    <ClInclude Include="include\demo_15.h" />
     <ClInclude Include="include\demo_2.h" />
     <ClInclude Include="include\demo_3.h" />
     <ClInclude Include="include\demo_4.h" />
@@ -45,6 +46,7 @@
     <ClCompile Include="src\demo_12.c" />
     <ClCompile Include="src\demo_13.c" />
     <ClCompile Include="src\demo_14.c" />
+    <ClCompile Include="src\demo_15.c" />
     <ClCompile Include="src\demo_2.c" />
     <ClCompile Include="src\demo_3.c" />
     <ClCompile Include="src\demo_4.c" />

@@ -6,7 +6,7 @@
 
 #include <stdio.h>
 #include "demo_n.h"
-#include "demo_1.h"
+#include "demo_15.h"
 
 /**
 *	@brief		main入口函数
@@ -21,7 +21,7 @@ int main(int argc, char *argv[])
 {
 	//demo_n();		/**< 创建新示例 */
 
-	demo_1();		/**< 调用demo_x函数 */
+	demo_15();		/**< 调用demo_x函数 */
 
 	getchar();		/**< 等待退出 */
 
